@@ -86,5 +86,104 @@
   <ItemGroup>
     <None Include="Resources\black checkmark.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\house.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\crosswalk.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\train.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\giving turnip.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\geese.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alleyway.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Game over.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sink hole.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\win.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\forest.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\traffic.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thanks.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\575723__iceofdoom__phew-relieved-male.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\342213__mohamedomarcomposer__false-1.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\70333__mrbubble110__bear-roar.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\101855__thebigracket__5-bikes.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\63637__vtownpunks__screaming-5.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\560328__jakeeaton__punch-6.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\382310__myfox14__game-over-arcade.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\332014__inspectorj__train-passing-left-to-right-b.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\442820__qubodup__duck-quack.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\378211__fredelisle__bike-click.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\219244__zyrytsounds__alarm-clock-short.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\75235__creek23__cha-ching.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\345053__azumarill__epson-receipt-printer6.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\91926__tim-kahn__ding.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alert.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\you-must-die.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clash-royale-laugh.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\139-item-catch.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\443218__topschool__running.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\474618__mycompasstv__high-speed-train-interior-cabin-china.wav" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

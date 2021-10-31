@@ -124,4 +124,94 @@
   <data name="black checkmark" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\black checkmark.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="alleyway" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\alleyway.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="clash_royale_laugh" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\clash-royale-laugh.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="crosswalk" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\crosswalk.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="forest" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\forest.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Game_over" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Game over.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="geese" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\geese.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="giving_turnip" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\giving turnip.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="house" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\house.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="money" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\money.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sink_hole" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sink hole.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="thanks" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\thanks.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="traffic" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\traffic.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="train" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\train.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="win" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\win.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="you_must_die" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\you-must-die.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="_101855__thebigracket__5_bikes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\101855__thebigracket__5-bikes.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="_139_item_catch" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\139-item-catch.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="_219244__zyrytsounds__alarm_clock_short" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\219244__zyrytsounds__alarm-clock-short.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="_332014__inspectorj__train_passing_left_to_right_b" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\332014__inspectorj__train-passing-left-to-right-b.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="_342213__mohamedomarcomposer__false_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\342213__mohamedomarcomposer__false-1.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="_378211__fredelisle__bike_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\378211__fredelisle__bike-click.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="_382310__myfox14__game_over_arcade" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\382310__myfox14__game-over-arcade.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="_442820__qubodup__duck_quack" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\442820__qubodup__duck-quack.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="_443218__topschool__running" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\443218__topschool__running.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="_474618__mycompasstv__high_speed_train_interior_cabin_china" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\474618__mycompasstv__high-speed-train-interior-cabin-china.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="_560328__jakeeaton__punch_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\560328__jakeeaton__punch-6.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="_575723__iceofdoom__phew_relieved_male" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\575723__iceofdoom__phew-relieved-male.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="_63637__vtownpunks__screaming_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\63637__vtownpunks__screaming-5.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="_70333__mrbubble110__bear_roar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\70333__mrbubble110__bear-roar.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="_75235__creek23__cha_ching" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\75235__creek23__cha-ching.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
 </root>
